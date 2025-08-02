@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "qmk_userspace_via"]
+	path = qmk_userspace_via
+	url = https://github.com/the-via/qmk_userspace_via
